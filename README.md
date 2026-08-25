@@ -7,7 +7,7 @@
 
 ---
 
-## 📌 Problem Overview
+##  Problem Overview
 
 Hospital pharmacies need an automated stock management system that tracks medicine batch expiry dates, generates **First-Expired-First-Out (FEFO)** dispensing lists, and automatically triggers purchase orders when medicine stock reaches or falls below the configured safety threshold.
 
@@ -21,7 +21,7 @@ The system is designed to support pharmacy staff in maintaining correct batch ro
 
 ---
 
-## 🎯 Objectives
+##  Objectives
 
 The objectives of this lab are to:
 
@@ -35,7 +35,7 @@ The objectives of this lab are to:
 
 ---
 
-## 📋 Requirements
+##  Requirements
 
 The system contains exactly **5 Functional Requirements** and **2 Non-Functional Requirements**.
 
@@ -58,7 +58,7 @@ The system contains exactly **5 Functional Requirements** and **2 Non-Functional
 
 ---
 
-## 🔹 Use Cases
+##  Use Cases
 
 The system is modelled using the following use cases:
 
@@ -87,7 +87,7 @@ The purchase order generation is conditional because it occurs when monitored me
 
 ---
 
-## 🔄 Core Use-Case Flow
+##  Core Use-Case Flow
 
 ### UC-02 — Dispense Medicine
 
@@ -127,7 +127,7 @@ Dispense the correct medicine batch while following FEFO order and selecting the
 
 ---
 
-## 🗂️ Repository Contents
+##  Repository Contents
 
 ```text
 .
@@ -147,7 +147,7 @@ Dispense the correct medicine batch while following FEFO order and selecting the
 
 ---
 
-## 🛠️ Tools Used
+##  Tools Used
 
 * **Draw.io** — UML Use-Case Diagram
 * **Microsoft Word** — Requirements Table and Use-Case Flow
@@ -155,7 +155,7 @@ Dispense the correct medicine batch while following FEFO order and selecting the
 
 ---
 
-## 📚 Lab Learning Outcomes
+##  Lab Learning Outcomes
 
 This lab demonstrates the ability to:
 
@@ -169,7 +169,7 @@ This lab demonstrates the ability to:
 
 ---
 
-## 👥 Actors & Responsibilities
+##  Actors & Responsibilities
 
 | Actor                  | Responsibility                                                                     |
 | ---------------------- | ---------------------------------------------------------------------------------- |
@@ -179,7 +179,7 @@ This lab demonstrates the ability to:
 
 ---
 
-## 📄 Submission
+##  Submission
 
 This repository contains the complete deliverables for **Lab 1: Requirements Engineering & UML Use-Case Modelling**, based on **Problem Statement #15 — Pharmacy Expiry & Re-order Dispatch Engine**.
 
